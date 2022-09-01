@@ -4,3 +4,4 @@ Cd: this script changes the working directory to the user's home directory
 ls -la: this script display current directory contents, including hidden files(Starting with .)
 ls -na : this script display current directory contents. long format with user and group IDs displayed numerically and hidden files (Starting with .)
 mkdir:  this script create directory.
+mv : this script or command is used to move file
