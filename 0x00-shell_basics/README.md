@@ -8,3 +8,4 @@ mv : this script or command is used to move file
 rm : this script is used to delete or remove file.
 rm -r: this script remove or delete directory.
 cd - : this script changes the working directory to the previous one!
+ls -la . ../boot : this script list all files in current working directory and the parent working directory and the /boot directory, in long format
