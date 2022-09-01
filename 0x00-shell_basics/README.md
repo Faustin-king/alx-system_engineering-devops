@@ -1,1 +1,3 @@
- this script display the contents list of working directoty
+pwd: this script prints the absolute path name of current working directory
+ls: this script display the contents list of working directoty
+Cd: this script changes the working directory to the user's home directory
