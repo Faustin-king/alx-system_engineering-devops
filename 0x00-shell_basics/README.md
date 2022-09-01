@@ -7,3 +7,4 @@ mkdir:  this script create directory.
 mv : this script or command is used to move file
 rm : this script is used to delete or remove file.
 rm -r: this script remove or delete directory.
+cd - : this script changes the working directory to the previous one!
