@@ -1,2 +1,2 @@
 #!/bin/bash
-script: ls 
+script: ls -d  
