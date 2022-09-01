@@ -6,3 +6,4 @@ ls -na : this script display current directory contents. long format with user a
 mkdir:  this script create directory.
 mv : this script or command is used to move file
 rm : this script is used to delete or remove file.
+rm -r: this script remove or delete directory.
