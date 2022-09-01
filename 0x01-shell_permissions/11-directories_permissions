@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod sudo -R +111 */
+sudo chmod sudo -R +111 */
