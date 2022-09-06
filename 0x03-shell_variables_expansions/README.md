@@ -26,3 +26,11 @@ Value: rm *
 Name: BEST
 
 Value: School
+
+7-create_global-variable : Create a script that creates a new global variable.
+
+
+
+Name: BEST
+
+Value: School
